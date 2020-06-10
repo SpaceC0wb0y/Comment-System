@@ -38216,7 +38216,16 @@ var staticRenderFns = [
             _vm._v("View and comment on post")
           ]),
           _vm._v(" "),
-          _c("a", { attrs: { href: "Git Repo" } }, [_vm._v("Git Repo")])
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://github.com/SpaceC0wb0y/Comment-System/tree/full-system"
+              }
+            },
+            [_vm._v("Git Repo")]
+          )
         ])
       ])
     ])
