@@ -7,7 +7,7 @@
                 <div class="links">
                     <a href="http://localhost:8000/post">Make a Post</a>
                     <a href="http://localhost:8000/posts">View and comment on post</a>
-                    <a href="Git Repo">Git Repo</a>
+                    <a href="https://github.com/SpaceC0wb0y/Comment-System/tree/full-system">Git Repo</a>
                 </div>
             </div>
         </div>
